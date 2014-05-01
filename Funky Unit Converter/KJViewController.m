@@ -18,6 +18,19 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    int x = 5;
+    int y = 20;
+    int z = -2;
+    
+    int additionAnzwer = x + y;
+    int multiplyAnswer = y * z;
+    
+    float heightOfEverstBaseCamp = 16900.3;
+    float heightOfEverst = 29029;
+    
+    float distanceToTravel - heightOfEverst - heightOfEverstBaseCamp;
+    distanceToTravel = distanceToTravel - 1000;
+    
 }
 
 - (void)didReceiveMemoryWarning
